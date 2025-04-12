@@ -6,7 +6,7 @@ repository: https://github.com/thethtwe-dev/battery_optimization_helper
 issue_tracker: https://github.com/thethtwe-dev/battery_optimization_helper/issues
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.7.0
   flutter: '>=3.3.0'
 
 dependencies:
